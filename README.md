@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Support Chatbot (Python + Flask + MySQL)
 
 A beginner-friendly portfolio project with a rule-based FAQ chatbot, customer registration/login, MySQL-backed support tickets, ticket tracking, and an admin dashboard.
@@ -78,3 +79,7 @@ Edit `FAQS` in `chatbot.py`. Each entry has a tuple of keywords, a reply, and a 
 
 ## Production hardening before deployment
 Set a strong secret key, disable debug mode, use HTTPS, add rate limiting and login throttling, configure secure session cookies, validate email addresses, add password reset and email delivery, and use a managed secret store. Add authorization checks and audit logging before using real customer data. Never ask customers to provide passwords, OTPs, or full card details.
+=======
+# chatbot
+A beginner-friendly portfolio project with a rule-based FAQ chatbot, customer registration/login, MySQL-backed support tickets, ticket tracking, and an admin dashboard.
+>>>>>>> a2c3d597a113edd64161139c4522fd4858665cee
